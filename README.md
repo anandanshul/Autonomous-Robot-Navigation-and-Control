@@ -11,7 +11,7 @@
 
 ## Description
 In this project, I build a wheeled robot and programmed it to navigate autonomously through a series of tasks, using Arduino, motors, encoders and distance sensors.<br>
-Take a look at my [portfolio post](https://yaelbenshalom.github.io/mechatronics/index.html) for more information about the project.
+
 
 
 ## Overview
@@ -51,4 +51,3 @@ The autonomous vehicle:
     <p align="center">
         <img align="center" src="https://github.com/YaelBenShalom/Autonomous-Robot-Navigation-and-Control/blob/main/images/vehicle.jpg" width="60%">
     </p>
-# Autonomous-Robot-Navigation-and-Control
